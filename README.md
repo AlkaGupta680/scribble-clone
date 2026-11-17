@@ -8,6 +8,7 @@ Scribble Clone is a multiplayer web application where players can create or join
 
 **Live Application:** https://scribble-clone-86de.onrender.com
 
+
 ##  Features
 
 - **Create Room:** Create a multiplayer game room with configurable settings.
@@ -22,6 +23,19 @@ Scribble Clone is a multiplayer web application where players can create or join
 - **Leaderboard:** Track player scores throughout the game.
 - **Game Timer:** Time-based drawing rounds.
 - **Room Management:** Manage players and game sessions.
+
+## Screenshots
+###  Home Page
+![Home Page](./images/home.png)
+
+###  Game Interface
+![Game Interface](./images/play.png)
+
+###  Guesser Side
+![Guesser Side](./images/GuesserSide.png)
+
+###  Player Side
+![Player Side](./images/playerSide.png)
 
 ##  Technologies & Concepts Used
 
