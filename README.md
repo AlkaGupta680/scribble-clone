@@ -6,7 +6,7 @@ Scribble Clone is a multiplayer web application where players can create or join
 
 ##  Live Demo
 
-**Live Application:** Add your Render URL here.
+**Live Application:** https://scribble-clone-86de.onrender.com
 
 ##  Features
 
